@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Malek_Attempt.props" />
+</Project>

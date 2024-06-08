@@ -1,0 +1,17 @@
+C:\Users\dell\Desktop\Malek_Attempt\Malek_Attempt.DataAccessLayer\bin\Debug\net8.0\Malek_Attempt.DataAccessLayer.deps.json
+C:\Users\dell\Desktop\Malek_Attempt\Malek_Attempt.DataAccessLayer\bin\Debug\net8.0\Malek_Attempt.DataAccessLayer.runtimeconfig.json
+C:\Users\dell\Desktop\Malek_Attempt\Malek_Attempt.DataAccessLayer\bin\Debug\net8.0\Malek_Attempt.DataAccessLayer.dll
+C:\Users\dell\Desktop\Malek_Attempt\Malek_Attempt.DataAccessLayer\bin\Debug\net8.0\Malek_Attempt.DataAccessLayer.pdb
+C:\Users\dell\Desktop\Malek_Attempt\Malek_Attempt.DataAccessLayer\bin\Debug\net8.0\Malek_Attempt.Models.dll
+C:\Users\dell\Desktop\Malek_Attempt\Malek_Attempt.DataAccessLayer\bin\Debug\net8.0\Malek_Attempt.Models.pdb
+C:\Users\dell\Desktop\Malek_Attempt\Malek_Attempt.DataAccessLayer\obj\Debug\net8.0\Malek_Attempt.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\Malek_Attempt\Malek_Attempt.DataAccessLayer\obj\Debug\net8.0\Malek_Attempt.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\Malek_Attempt\Malek_Attempt.DataAccessLayer\obj\Debug\net8.0\Malek_Attempt.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\Malek_Attempt\Malek_Attempt.DataAccessLayer\obj\Debug\net8.0\Malek_Attempt.DataAccessLayer.AssemblyInfo.cs
+C:\Users\dell\Desktop\Malek_Attempt\Malek_Attempt.DataAccessLayer\obj\Debug\net8.0\Malek_Attempt.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\Malek_Attempt\Malek_Attempt.DataAccessLayer\obj\Debug\net8.0\Malek_At.A97A2FBE.Up2Date
+C:\Users\dell\Desktop\Malek_Attempt\Malek_Attempt.DataAccessLayer\obj\Debug\net8.0\Malek_Attempt.DataAccessLayer.dll
+C:\Users\dell\Desktop\Malek_Attempt\Malek_Attempt.DataAccessLayer\obj\Debug\net8.0\refint\Malek_Attempt.DataAccessLayer.dll
+C:\Users\dell\Desktop\Malek_Attempt\Malek_Attempt.DataAccessLayer\obj\Debug\net8.0\Malek_Attempt.DataAccessLayer.pdb
+C:\Users\dell\Desktop\Malek_Attempt\Malek_Attempt.DataAccessLayer\obj\Debug\net8.0\Malek_Attempt.DataAccessLayer.genruntimeconfig.cache
+C:\Users\dell\Desktop\Malek_Attempt\Malek_Attempt.DataAccessLayer\obj\Debug\net8.0\ref\Malek_Attempt.DataAccessLayer.dll

@@ -1,0 +1,6 @@
+@Malek_Attempt_HostAddress = http://localhost:5282
+
+GET {{Malek_Attempt_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

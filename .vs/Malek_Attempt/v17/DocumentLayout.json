@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\Desktop\\Malek_Attempt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58303037-58E8-47CE-AA08-A853AA629D17}|Malek_Attempt\\Malek_Attempt.csproj|c:\\users\\dell\\desktop\\malek_attempt\\malek_attempt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58303037-58E8-47CE-AA08-A853AA629D17}|Malek_Attempt\\Malek_Attempt.csproj|solutionrelative:malek_attempt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE75BEC-E9A7-46ED-9C95-1FBE6419CA4A}|Malek_Attempt.DataAccessLayer\\Malek_Attempt.DataAccessLayer.csproj|c:\\users\\dell\\desktop\\malek_attempt\\malek_attempt.dataaccesslayer\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE75BEC-E9A7-46ED-9C95-1FBE6419CA4A}|Malek_Attempt.DataAccessLayer\\Malek_Attempt.DataAccessLayer.csproj|solutionrelative:malek_attempt.dataaccesslayer\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Malek_Attempt\\Malek_Attempt\\Program.cs",
+              "RelativeDocumentMoniker": "Malek_Attempt\\Program.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Malek_Attempt\\Malek_Attempt\\Program.cs",
+              "RelativeToolTip": "Malek_Attempt\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T19:13:32.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Malek_Attempt\\Malek_Attempt.DataAccessLayer\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "Malek_Attempt.DataAccessLayer\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Malek_Attempt\\Malek_Attempt.DataAccessLayer\\DatabaseContext.cs",
+              "RelativeToolTip": "Malek_Attempt.DataAccessLayer\\DatabaseContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T19:06:01.655Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
